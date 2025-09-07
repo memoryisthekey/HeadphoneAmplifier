@@ -612,6 +612,14 @@
     [
       "5faae81d-f66a-438b-a97a-07010798add6",
       "Root"
+    ],
+    [
+      "97cb9c44-c831-444c-aa77-3756bc34400e",
+      "Power Section"
+    ],
+    [
+      "d463e94a-376b-41f1-9565-03159b2bc3bf",
+      "Input Buffer"
     ]
   ],
   "text_variables": {}
