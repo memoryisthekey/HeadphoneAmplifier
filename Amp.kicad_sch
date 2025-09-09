@@ -55,6 +55,48 @@
 		)
 	)
 	(sheet
+		(at 24.13 102.87)
+		(size 90.17 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a6ff012e-83f2-464c-84ed-b72b5bf115a0")
+		(property "Sheetname" "Volume Control"
+			(at 24.13 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VolumeControl.kicad_sch"
+			(at 24.13 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amp"
+				(path "/5faae81d-f66a-438b-a97a-07010798add6"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 24.13 63.5)
 		(size 90.17 31.75)
 		(exclude_from_sim no)

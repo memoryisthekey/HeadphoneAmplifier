@@ -620,6 +620,10 @@
     [
       "d463e94a-376b-41f1-9565-03159b2bc3bf",
       "Input Buffer"
+    ],
+    [
+      "a6ff012e-83f2-464c-84ed-b72b5bf115a0",
+      "Volume Control"
     ]
   ],
   "text_variables": {}
