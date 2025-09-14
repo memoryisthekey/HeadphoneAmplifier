@@ -3520,28 +3520,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "c0bbb227-f79e-4dcb-a3dc-7cea62bb7b50")
+			(uuid "c0bbb227-f79e-4dcb-a3dc-7cea62bb7b51")
 		)
 		(pin "3"
-			(uuid "642c65e2-a54a-42bb-b3b6-64f8413cddc1")
+			(uuid "642c65e2-a54a-42bb-b3b6-64f8413cddc2")
 		)
 		(pin "6"
-			(uuid "6ec924ef-9ae6-47e0-8663-6b8266fcd088")
+			(uuid "6ec924ef-9ae6-47e0-8663-6b8266fcd089")
 		)
 		(pin "5"
-			(uuid "8dd44470-e1d8-4e01-a511-19585a407971")
+			(uuid "8dd44470-e1d8-4e01-a511-19585a407972")
 		)
 		(pin "4"
 			(uuid "e816b01d-4fcf-4e27-8c56-9f2692ca34a5")
 		)
 		(pin "1"
-			(uuid "2537a425-d821-421e-9723-59d46b931017")
+			(uuid "2537a425-d821-421e-9723-59d46b931018")
 		)
 		(pin "8"
 			(uuid "dab80dc7-4c26-4879-8c90-da6053d15af4")
 		)
 		(pin "7"
-			(uuid "7d7be26d-99b1-4e74-b0fa-791567786e44")
+			(uuid "7d7be26d-99b1-4e74-b0fa-791567786e45")
 		)
 		(instances
 			(project "Amp"

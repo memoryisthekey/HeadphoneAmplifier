@@ -624,6 +624,10 @@
     [
       "a6ff012e-83f2-464c-84ed-b72b5bf115a0",
       "Volume Control"
+    ],
+    [
+      "09d140a5-be16-4f38-940b-31221fe1edd1",
+      "Output Stage"
     ]
   ],
   "text_variables": {}
