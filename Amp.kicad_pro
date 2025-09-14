@@ -627,7 +627,11 @@
     ],
     [
       "09d140a5-be16-4f38-940b-31221fe1edd1",
-      "Output Stage"
+      "Output Stage Left"
+    ],
+    [
+      "2f5c877b-910c-488b-8e5a-727c90fcde6a",
+      "Output Stage Right"
     ]
   ],
   "text_variables": {}
