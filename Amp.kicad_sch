@@ -13,49 +13,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 137.16 20.32)
-		(size 115.57 34.29)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "09d140a5-be16-4f38-940b-31221fe1edd1")
-		(property "Sheetname" "Output Stage Left"
-			(at 137.16 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Output.kicad_sch"
-			(at 137.16 55.1946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Amp"
-				(path "/5faae81d-f66a-438b-a97a-07010798add6"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 137.16 73.66)
+		(at 132.08 22.86)
 		(size 115.57 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -70,8 +28,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "2f5c877b-910c-488b-8e5a-727c90fcde6a")
-		(property "Sheetname" "Output Stage Right"
-			(at 137.16 72.9484 0)
+		(property "Sheetname" "Output Stage"
+			(at 132.08 22.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80,7 +38,7 @@
 			)
 		)
 		(property "Sheetfile" "Output.kicad_sch"
-			(at 137.16 108.5346 0)
+			(at 132.08 57.7346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
